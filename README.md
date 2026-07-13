@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile_banner.png" alt="Blessing Onome Banner" width="100%">
+  <img src="blessing_profile_banner.png" alt="Blessing Usieme Banner" width="100%">
 </p>
 
 # Hi there, I'm Blessing Onome 👋
@@ -36,9 +36,9 @@ I'm continuously learning, building projects, and sharing my work here on GitHub
 
 - Advanced Excel
 - Advanced SQL
-- Advanced PowerBI
-- Python for Data Analysis
 - Power BI Dashboard Design
+- Python for Data Analysis
+
 
 ---
 
