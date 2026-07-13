@@ -34,7 +34,9 @@ I'm continuously learning, building projects, and sharing my work here on GitHub
 
 ## 🌱 Currently Learning
 
+- Advanced Excel
 - Advanced SQL
+- Advanced PowerBI
 - Python for Data Analysis
 - Power BI Dashboard Design
 
