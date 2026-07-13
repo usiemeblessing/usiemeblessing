@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile_banner.png" alt="Blessing Onome Banner" width="100%">
+</p>
+
 # Hi there, I'm Blessing Onome 👋
 
 ## 📊 Data Analyst | 💻 Basic Front-End Developer
