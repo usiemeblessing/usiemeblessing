@@ -14,7 +14,7 @@ In addition to analytics, I have basic front-end development skills using HTML, 
 
 ---
 
-## 📌 Portfolio Highlights
+## 📌 What I build
 
 ✔ End-to-End Analytics Solutions
 
@@ -52,13 +52,13 @@ In addition to analytics, I have basic front-end development skills using HTML, 
 
 ## 📊 Analytics Snapshot
 
-- 📁 5+ End-to-End Analytics Projects
+- 📁 End-to-End Data Analytics Projects
+- 💡 End-to-End Analytics Workflow
 - 🐍 Python (Pandas, Matplotlib)
 - 🗄️ MySQL
 - 📊 Power BI
 - 📈 Microsoft Excel
 - 📚 Business Domains: Retail, Supply Chain, Education, Finance & HR
-- 💡 End-to-End Analytics Workflow
 
 ---
 
