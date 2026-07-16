@@ -73,8 +73,6 @@ I'm currently building a portfolio of real-world analytics projects across retai
 
 ## 🌱 Currently Learning
 
-🌱 Currently Learning
-
 -  Advanced SQL for Analytics
 -  DAX & Power BI Optimization
 -  Statistical Data Analysis
