@@ -73,9 +73,6 @@ I'm currently building a portfolio of end-to-end analytics projects across retai
 ## 🌟 Featured Repositories
 
 ### 📊 Data Analytics
-
-- 📁 **[Data Analytics Portfoliio](https://github.com/usiemeblessing/data-analytics-portfolio)** 
-  A central hub showcasing all my data analytics projects.
   
 | Project | Domain | Tools | Status |
 |---------|--------|-------|:------:|
@@ -87,16 +84,18 @@ I'm currently building a portfolio of end-to-end analytics projects across retai
 | **[🛒 Superstore Sales Analysis](https://github.com/usiemeblessing/superstore-sales-analysis)** | Retail Analytics | Python, MySQL, Excel, Power BI | 🚧 |
 | **[💰 Financial Analytics](https://github.com/usiemeblessing/financial-analytics)** | Finance | Python, MySQL, Excel, Power BI | 🚧 |
 
-### 💻 Web Development
+- 📁 **[Data Analytics Portfoliio](https://github.com/usiemeblessing/data-analytics-portfolio)** 
+  A central hub showcasing all my data analytics projects.
 
-- 📁 **[Data Analytics Portfoliio](https://github.com/usiemeblessing/web-development-portfolio)** 
-  A central hub showcasing all my web development projects.
+### 💻 Web Development
 
 | Project | Technologies | Status |
 |---------|--------------|:------:|
 | **[🌐 QR Code Component](https://github.com/usiemeblessing/qr-code-component)** | HTML, CSS | ✅ |
 | **[📷 Client Photography Website](https://github.com/usiemeblessing/client-photography-website)** | HTML, CSS, JavaScript | 🚧 |
 
+- 📁 **[Web Development Portfoliio](https://github.com/usiemeblessing/web-development-portfolio)** 
+  A central hub showcasing all my web development projects.
 ---
 
 ## 🌱 Currently Learning
