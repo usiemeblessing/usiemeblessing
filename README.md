@@ -6,11 +6,11 @@
 
 I'm a **Data Analyst** specializing in transforming raw data into actionable business insights using **Python, MySQL, Microsoft Excel, and Power BI**.
 
-I enjoy solving business problems through data cleaning, exploratory data analysis, SQL querying, dashboard development, and business reporting.
+I enjoy solving business problems through data cleaning, exploratory data analysis (EDA), SQL querying, dashboard development, and business reporting.
 
-Alongside analytics, I also have **basic front-end development skills** using HTML, CSS, and JavaScript, enabling me to build simple, responsive web interfaces and better collaborate with web development teams.
+I build end-to-end analytics solutions across **retail, supply chain, education, finance, and human resources**, applying a complete analytics workflow—from data cleaning and exploration to SQL analysis, interactive dashboards, and actionable business recommendations.
 
-I'm currently building a portfolio of end-to-end analytics projects across retail, supply chain, education, and HR while continuously expanding my knowledge in business intelligence and data analytics.
+In addition to analytics, I have basic front-end development skills using HTML, CSS, and JavaScript, enabling me to build simple, responsive web interfaces and collaborate effectively with web development teams.
 
 ---
 
@@ -24,23 +24,15 @@ I'm currently building a portfolio of end-to-end analytics projects across retai
 
 ---
 
-## 🛠 Technical Skills
+## 🛠️ Technical Skills
 
-- Data Cleaning
-
-- Exploratory Data Analysis (EDA)
-
-- SQL Querying
-
-- Business Problem Solving
-
-- Business Intelligence
-
-- Dashboard Development
-
-- Data Visualization
-
-- KPI Reporting
+| Data Analysis | Reporting & BI |
+|---------------|----------------|
+| Data Cleaning | Dashboard Development |
+| Exploratory Data Analysis (EDA) | KPI Reporting |
+| SQL Querying | Data Visualization |
+| Statistical Analysis | Business Intelligence |
+| Business Problem Solving | Data Storytelling |
 
 ---
 
@@ -60,20 +52,23 @@ I'm currently building a portfolio of end-to-end analytics projects across retai
 
 ## 📊 Analytics Snapshot
 
-- 📁 Analytics Portfolio
-  -🐍 Python (Pandas, Matplotlib)
+- 📁 5+ End-to-End Analytics Projects
+- 🐍 Python (Pandas, Matplotlib)
 - 🗄️ MySQL
 - 📊 Power BI
 - 📈 Microsoft Excel
-- 📚 Business Domains: Retail, Supply Chain, Education, HR
+- 📚 Business Domains: Retail, Supply Chain, Education, Finance & HR
 - 💡 End-to-End Analytics Workflow
 
 ---
 
-## 🌟 Featured Repositories
+## 🌟 Featured Projects
 
 ### 📊 Data Analytics
-  
+
+  - 📁 **[Data Analytics Portfoliio](https://github.com/usiemeblessing/data-analytics-portfolio)** 
+ A central hub for exploring all of my analytics projects.
+
 | Project | Domain | Tools | Status |
 |---------|--------|-------|:------:|
 | **[🛍️ Retail Sales Performance Analysis](https://github.com/usiemeblessing/retail-sales-performance-analysis)** | Retail Analytics | Python, MySQL, Excel, Power BI | ✅ |
@@ -83,18 +78,18 @@ I'm currently building a portfolio of end-to-end analytics projects across retai
 | **[🛒 Superstore Sales Analysis](https://github.com/usiemeblessing/superstore-sales-analysis)** | Retail Analytics | Python, MySQL, Excel, Power BI | 🚧 |
 | **[💰 Financial Analytics](https://github.com/usiemeblessing/financial-analytics)** | Finance | Python, MySQL, Excel, Power BI | 🚧 |
 
-- 📁 **[Data Analytics Portfoliio](https://github.com/usiemeblessing/data-analytics-portfolio)** 
-  A central hub showcasing all my data analytics projects.
 
 ### 💻 Web Development
+
+- 📁 **[Web Development Portfoliio](https://github.com/usiemeblessing/web-development-portfolio)** 
+ A central hub for exploring my web development projects.
 
 | Project | Technologies | Status |
 |---------|--------------|:------:|
 | **[🌐 QR Code Component](https://github.com/usiemeblessing/qr-code-component)** | HTML, CSS | ✅ |
 | **[📷 Client Photography Website](https://github.com/usiemeblessing/client-photography-website)** | HTML, CSS, JavaScript | 🚧 |
 
-- 📁 **[Web Development Portfoliio](https://github.com/usiemeblessing/web-development-portfolio)** 
-  A central hub showcasing all my web development projects.
+
 ---
 
 ## 🌱 Currently Learning
