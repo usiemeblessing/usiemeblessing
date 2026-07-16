@@ -16,7 +16,7 @@ I'm currently building a portfolio of end-to-end analytics projects across retai
 
 ## 📌 Portfolio Highlights
 
-✔ End-to-End Analytics Projects
+✔ End-to-End Analytics Solutions
 
 ✔ Interactive Dashboards
 
@@ -27,16 +27,13 @@ I'm currently building a portfolio of end-to-end analytics projects across retai
 ## 🛠 Technical Skills
 
 - Data Cleaning
-
-- Exploratory Data Analysis
-
+- Exploratory Data Analysis (EDA)
 - SQL Querying
-
 - Dashboard Development
-
 - Business Intelligence
-
 - Data Visualization
+- KPI Reporting
+- Business Problem Solving
 
 ---
 
@@ -54,12 +51,15 @@ I'm currently building a portfolio of end-to-end analytics projects across retai
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 Analytics Snapshot
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=usiemeblessing&show_icons=true&include_all_commits=true&count_private=false" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=usiemeblessing&layout=compact" />
-</p>
+- 📁 Analytics Projects: 4+
+- 🐍 Python (Pandas, Matplotlib)
+- 🗄️ MySQL
+- 📊 Power BI
+- 📈 Microsoft Excel
+- 📚 Business Domains: Retail, Supply Chain, Education, HR
+- 💡 End-to-End Analytics Workflow
 
 ---
 
