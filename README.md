@@ -10,6 +10,20 @@ I enjoy transforming raw data into actionable business insights through data cle
 
 I'm currently building a portfolio of real-world analytics projects across retail, supply chain, education, and HR domains while continuously expanding my knowledge in business intelligence and data analytics.
 
+---
+
+## 📌 Portfolio Highlights
+
+✔ 1 End-to-End Analytics Project Completed
+
+✔ Python • MySQL • Excel • Power BI
+
+✔ Interactive Dashboards
+
+✔ Business Insights & Recommendations
+
+---
+
 ## 🛠️ Tools & Technologies
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -28,7 +42,6 @@ I'm currently building a portfolio of real-world analytics projects across retai
 
 <p align="center">
   <img height="170" src="[https://github-readme-stats.vercel.app/api?username=opeyemi](https://github-readme-stats.vercel.app/api?username=usiemeblessing)&show_icons=true&theme=default&hide_border=true" />
-  
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opeyemi&layout=compact&theme=default&hide_border=true" />
 </p>
 
@@ -41,8 +54,7 @@ I'm currently building a portfolio of real-world analytics projects across retai
 - 📁 **Data Analytics Portfolio**  
   A central hub showcasing all my data analytics projects.
   
-- 🛍️ **Retail Sales Performance Analysis**
-- 📊 **[Retail Sales Performance Analysis](https://github.com/yourusername/retail-sales-performance-analysis)**
+- 📊 **[Retail Sales Performance Analysis](https://github.com/yourusername/retail-sales-performance-analysis)**  
   End-to-end retail analytics project using Python, MySQL, Excel, and Power BI.
 
 - 🌾 **Agricultural Supply Chain Analysis** *(Coming Soon)*
@@ -61,10 +73,12 @@ I'm currently building a portfolio of real-world analytics projects across retai
 
 ## 🌱 Currently Learning
 
-- Advanced Excel
-- Advanced SQL
-- Power BI Dashboard Design
-- Python for Data Analysis
+🌱 Currently Learning
+
+-  Advanced SQL for Analytics
+-  DAX & Power BI Optimization
+-  Statistical Data Analysis
+-  Machine Learning Fundamentals
 
 ---
 ## 📫 Connect with Me
