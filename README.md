@@ -8,7 +8,7 @@ I'm a **Data Analyst** specializing in transforming raw data into actionable bus
 
 I enjoy solving business problems through data cleaning, exploratory data analysis (EDA), SQL querying, dashboard development, and business reporting.
 
-I build end-to-end analytics solutions across **retail, supply chain, education, finance, and human resources**, applying a complete analytics workflow—from data cleaning and exploration to SQL analysis, interactive dashboards, and actionable business recommendations.
+I build end-to-end analytics solutions across **retail, supply chain, education, finance, and human resources**, applying a complete analytics workflow. From data cleaning and exploration to SQL analysis, interactive dashboards, and actionable business recommendations.
 
 In addition to analytics, I have basic front-end development skills using HTML, CSS, and JavaScript, enabling me to build simple, responsive web interfaces and collaborate effectively with web development teams.
 
@@ -66,7 +66,7 @@ In addition to analytics, I have basic front-end development skills using HTML, 
 
 ### 📊 Data Analytics
 
-  - 📁 **[Data Analytics Portfoliio](https://github.com/usiemeblessing/data-analytics-portfolio)** 
+  - 📁 **[Data Analytics Portfoliio](https://github.com/usiemeblessing/data-analytics-portfolio)**  
  A central hub for exploring all of my analytics projects.
 
 | Project | Domain | Tools | Status |
@@ -81,7 +81,7 @@ In addition to analytics, I have basic front-end development skills using HTML, 
 
 ### 💻 Web Development
 
-- 📁 **[Web Development Portfoliio](https://github.com/usiemeblessing/web-development-portfolio)** 
+- 📁 **[Web Development Portfoliio](https://github.com/usiemeblessing/web-development-portfolio)**   
  A central hub for exploring my web development projects.
 
 | Project | Technologies | Status |
