@@ -26,7 +26,7 @@ I'm currently building a portfolio of end-to-end analytics projects across retai
 
 ## 🛠 Technical Skills
 
-- Data Cleaning      - ho;ddfdhflhfldh      ldfldhf
+- Data Cleaning
 
 - Exploratory Data Analysis
 
