@@ -27,7 +27,8 @@ I'm currently building a portfolio of real-world analytics projects across retai
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=opeyemi&show_icons=true&theme=default&hide_border=true" />
+  <img height="170" src="[https://github-readme-stats.vercel.app/api?username=opeyemi](https://github-readme-stats.vercel.app/api?username=usiemeblessing)&show_icons=true&theme=default&hide_border=true" />
+  
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opeyemi&layout=compact&theme=default&hide_border=true" />
 </p>
 
@@ -40,7 +41,8 @@ I'm currently building a portfolio of real-world analytics projects across retai
 - 📁 **Data Analytics Portfolio**  
   A central hub showcasing all my data analytics projects.
   
-- 🛍️ **Retail Sales Performance Analysis**  
+- 🛍️ **Retail Sales Performance Analysis**
+- 📊 **[Retail Sales Performance Analysis](https://github.com/yourusername/retail-sales-performance-analysis)**
   End-to-end retail analytics project using Python, MySQL, Excel, and Power BI.
 
 - 🌾 **Agricultural Supply Chain Analysis** *(Coming Soon)*
