@@ -67,10 +67,10 @@ I'm currently building a portfolio of end-to-end analytics projects across retai
 
 ### 📊 Data Analytics
 
-- 📁 **Data Analytics Portfolio**  
+- 📁 **[Data Analytics Portfoliio](https://github.com/yourusername/retail-sales-performance-analysis)**  
   A central hub showcasing all my data analytics projects.
   
-- 📊 **[Retail Sales Performance Analysis](https://github.com/yourusername/retail-sales-performance-analysis)**  
+- 📊 **[Retail Sales Performance Analysis](https://github.com/yourusername/data-analytics-portfolio)**  
   End-to-end retail analytics project using Python, MySQL, Excel, and Power BI.
 
 - 🌾 **Agricultural Supply Chain Analysis** *(Coming Soon)*
