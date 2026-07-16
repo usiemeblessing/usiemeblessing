@@ -76,7 +76,6 @@ I'm currently building a portfolio of end-to-end analytics projects across retai
   
 | Project | Domain | Tools | Status |
 |---------|--------|-------|:------:|
-| **[📊 Data Analytics Portfolio](https://github.com/usiemeblessing/data-analytics-portfolio)** | Portfolio | GitHub | ✅ |
 | **[🛍️ Retail Sales Performance Analysis](https://github.com/usiemeblessing/retail-sales-performance-analysis)** | Retail Analytics | Python, MySQL, Excel, Power BI | ✅ |
 | **[🌾 Agricultural Supply Chain Analysis](https://github.com/usiemeblessing/agricultural-supply-chain-analysis)** | Supply Chain | Python, MySQL, Excel, Power BI | 🚧 |
 | **[🎓 Student Performance Analysis](https://github.com/usiemeblessing/student-performance-analysis)** | Education | Python, MySQL, Excel, Power BI | 🚧 |
