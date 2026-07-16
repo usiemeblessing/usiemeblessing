@@ -1,26 +1,44 @@
 <p align="center">
-  <img src="blessing_profile_banner.png" alt="Blessing Usieme Banner" width="100%">
+  <img src="blessing-usieme-github-profile-banner.png" alt="Blessing Usieme Banner" width="100%">
 </p>
 
 ## 👋 Hi there, I'm Blessing Usieme
 
-I'm a **Data Analyst** with skills in **Python, MySQL, Microsoft Excel, Power BI**, and **Basic Front-End Development**.
+I'm a **Data Analyst** specializing in transforming raw data into actionable business insights using **Python, MySQL, Microsoft Excel, and Power BI**.
 
-I enjoy transforming raw data into actionable business insights through data cleaning, exploratory analysis, SQL querying, interactive dashboards, and business reporting.
+I enjoy solving business problems through data cleaning, exploratory data analysis, SQL querying, dashboard development, and business reporting.
 
-I'm currently building a portfolio of real-world analytics projects across retail, supply chain, education, and HR domains while continuously expanding my knowledge in business intelligence and data analytics.
+Alongside analytics, I also have **basic front-end development skills** using HTML, CSS, and JavaScript, enabling me to build simple, responsive web interfaces and better collaborate with web development teams.
+
+I'm currently building a portfolio of end-to-end analytics projects across retail, supply chain, education, and HR while continuously expanding my knowledge in business intelligence and data analytics.
 
 ---
 
 ## 📌 Portfolio Highlights
 
-✔ 1 End-to-End Analytics Project Completed
-
-✔ Python • MySQL • Excel • Power BI
+✔ End-to-End Analytics Projects
 
 ✔ Interactive Dashboards
 
 ✔ Business Insights & Recommendations
+
+---
+
+🛠 Technical Skills
+
+Data Cleaning
+
+Exploratory Data Analysis
+
+SQL Querying
+
+Dashboard Development
+
+Business Intelligence
+
+Data Visualization
+
+Statistical Analysis
 
 ---
 
@@ -41,8 +59,8 @@ I'm currently building a portfolio of real-world analytics projects across retai
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="[https://github-readme-stats.vercel.app/api?username=opeyemi](https://github-readme-stats.vercel.app/api?username=usiemeblessing)&show_icons=true&theme=default&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opeyemi&layout=compact&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=usiemeblessing&show_icons=true&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usiemeblessing&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
