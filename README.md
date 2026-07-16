@@ -27,13 +27,20 @@ I'm currently building a portfolio of end-to-end analytics projects across retai
 ## 🛠 Technical Skills
 
 - Data Cleaning
+
 - Exploratory Data Analysis (EDA)
+
 - SQL Querying
-- Dashboard Development
-- Business Intelligence
-- Data Visualization
-- KPI Reporting
+
 - Business Problem Solving
+
+- Business Intelligence
+
+- Dashboard Development
+
+- Data Visualization
+
+- KPI Reporting
 
 ---
 
@@ -53,8 +60,8 @@ I'm currently building a portfolio of end-to-end analytics projects across retai
 
 ## 📊 Analytics Snapshot
 
-- 📁 Analytics Projects: 4+
-- 🐍 Python (Pandas, Matplotlib)
+- 📁 Analytics Portfolio
+  -🐍 Python (Pandas, Matplotlib)
 - 🗄️ MySQL
 - 📊 Power BI
 - 📈 Microsoft Excel
@@ -70,20 +77,25 @@ I'm currently building a portfolio of end-to-end analytics projects across retai
 - 📁 **[Data Analytics Portfoliio](https://github.com/usiemeblessing/data-analytics-portfolio)** 
   A central hub showcasing all my data analytics projects.
   
-- 📊 **[Retail Sales Performance Analysis](https://github.com/usiemeblessing/retail-sales-performance-analysis)**  
-  End-to-end retail analytics project using Python, MySQL, Excel, and Power BI.
-
-- 🌾 **Agricultural Supply Chain Analysis** *(Coming Soon)*
-
-- 🎓 **Student Performance Analysis** *(Coming Soon)*
-
-- 👥 **HR Analytics** *(Coming Soon)*
+| Project | Domain | Tools | Status |
+|---------|--------|-------|:------:|
+| **[📊 Data Analytics Portfolio](https://github.com/usiemeblessing/data-analytics-portfolio)** | Portfolio | GitHub | ✅ |
+| **[🛍️ Retail Sales Performance Analysis](https://github.com/usiemeblessing/retail-sales-performance-analysis)** | Retail Analytics | Python, MySQL, Excel, Power BI | ✅ |
+| **[🌾 Agricultural Supply Chain Analysis](https://github.com/usiemeblessing/agricultural-supply-chain-analysis)** | Supply Chain | Python, MySQL, Excel, Power BI | 🚧 |
+| **[🎓 Student Performance Analysis](https://github.com/usiemeblessing/student-performance-analysis)** | Education | Python, MySQL, Excel, Power BI | 🚧 |
+| **[👥 HR Analytics](https://github.com/usiemeblessing/hr-analytics)** | Human Resources | Python, MySQL, Excel, Power BI | 🚧 |
+| **[🛒 Superstore Sales Analysis](https://github.com/usiemeblessing/superstore-sales-analysis)** | Retail Analytics | Python, MySQL, Excel, Power BI | 🚧 |
+| **[💰 Financial Analytics](https://github.com/usiemeblessing/financial-analytics)** | Finance | Python, MySQL, Excel, Power BI | 🚧 |
 
 ### 💻 Web Development
 
-- 🌐 QR Code Component
+- 📁 **[Data Analytics Portfoliio](https://github.com/usiemeblessing/web-development-portfolio)** 
+  A central hub showcasing all my web development projects.
 
-- 📸 Client Photography Website
+| Project | Technologies | Status |
+|---------|--------------|:------:|
+| **[🌐 QR Code Component](https://github.com/usiemeblessing/qr-code-component)** | HTML, CSS | ✅ |
+| **[📷 Client Photography Website](https://github.com/usiemeblessing/client-photography-website)** | HTML, CSS, JavaScript | 🚧 |
 
 ---
 
