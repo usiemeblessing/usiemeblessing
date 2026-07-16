@@ -24,7 +24,7 @@ I'm currently building a portfolio of end-to-end analytics projects across retai
 
 ---
 
-🛠 Technical Skills
+## 🛠 Technical Skills
 
 Data Cleaning
 
