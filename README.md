@@ -2,7 +2,7 @@
   <img src="blessing_profile_banner.png" alt="Blessing Usieme Banner" width="100%">
 </p>
 
-# Hi there, I'm Blessing Onome 👋
+# Hi there, I'm Blessing Usieme 👋
 
 ## 📊 Data Analyst | 💻 Basic Front-End Developer
 
