@@ -24,6 +24,39 @@ I'm currently building a portfolio of real-world analytics projects across retai
 
 ---
 
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=opeyemi&show_icons=true&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opeyemi&layout=compact&theme=default&hide_border=true" />
+</p>
+
+---
+
+## 🌟 Featured Repositories
+
+### 📊 Data Analytics
+
+- 📁 **Data Analytics Portfolio**  
+  A central hub showcasing all my data analytics projects.
+  
+- 🛍️ **Retail Sales Performance Analysis**  
+  End-to-end retail analytics project using Python, MySQL, Excel, and Power BI.
+
+- 🌾 **Agricultural Supply Chain Analysis** *(Coming Soon)*
+
+- 🎓 **Student Performance Analysis** *(Coming Soon)*
+
+- 👥 **HR Analytics** *(Coming Soon)*
+
+### 💻 Web Development
+
+- 🌐 QR Code Component
+
+- 📸 Client Photography Website
+
+---
+
 ## 🌱 Currently Learning
 
 - Advanced Excel
@@ -31,9 +64,10 @@ I'm currently building a portfolio of real-world analytics projects across retai
 - Power BI Dashboard Design
 - Python for Data Analysis
 
-
 ---
+## 📫 Connect with Me
 
-## 📂 Featured Projects
-
-Coming soon...
+- GitHub: https://github.com/usiemeblessing
+- Email: usiemeblessing@gmail.com
+- LinkedIn: Coming Soon
+- Portfolio Website: Coming Soon
