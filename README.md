@@ -74,8 +74,8 @@ In addition to analytics, I have basic front-end development skills using HTML, 
 | **[🛍️ Retail Sales Performance Analysis](https://github.com/usiemeblessing/retail-sales-performance-analysis)** | Retail Analytics | Python, MySQL, Excel, Power BI | ✅ |
 | **[🌾 Agricultural Supply Chain Analysis](https://github.com/usiemeblessing/agricultural-supply-chain-analysis)** | Supply Chain | Python, MySQL, Excel, Power BI | 🚧 |
 | **[🎓 Student Performance Analysis](https://github.com/usiemeblessing/student-performance-analysis)** | Education | Python, MySQL, Excel, Power BI | 🚧 |
+| **[🛒 Supermarket Sales Performance Analysis](https://github.com/usiemeblessing/supermarket-sales-performance-analysis)** | Retail Analytics | Python, MySQL, Excel, Power BI | ✅ |
 | **[👥 HR Analytics](https://github.com/usiemeblessing/hr-analytics)** | Human Resources | Python, MySQL, Excel, Power BI | 🚧 |
-| **[🛒 Superstore Sales Analysis](https://github.com/usiemeblessing/superstore-sales-analysis)** | Retail Analytics | Python, MySQL, Excel, Power BI | 🚧 |
 | **[💰 Financial Analytics](https://github.com/usiemeblessing/financial-analytics)** | Finance | Python, MySQL, Excel, Power BI | 🚧 |
 
 
