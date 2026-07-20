@@ -104,5 +104,5 @@ In addition to analytics, I have basic front-end development skills using HTML, 
 
 - GitHub: https://github.com/usiemeblessing
 - Email: usiemeblessing@gmail.com
-- LinkedIn: Coming Soon
+- LinkedIn: https://linkedin.com/in/blessing-usieme-b31b32396
 - Portfolio Website: Coming Soon
